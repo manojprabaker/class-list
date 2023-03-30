@@ -1,0 +1,15 @@
+* {
+	padding:0;
+margin:0;
+box-sizing:border-box;
+}
+.toggle-icon {
+	
+}
+p {
+	font-size:1px;
+}
+.content{
+	font-size:30px;
+	color:teal;
+}
