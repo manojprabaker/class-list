@@ -1,4 +1,4 @@
-let btn =document.querySelector("button");
+let btns =document.querySelector("button");
 btn.classList.add("toggle-btn");
 let pP=document.querySelector("p");
 
